@@ -211,7 +211,7 @@ def cui_mode_main(opt):
 if __name__ == '__main__':
     opt={
         "zipfile":[], 
-        "outdir": "", 
+        "outdir": "./", 
         "language": "", 
         "gui": False,
         "decode":"",
